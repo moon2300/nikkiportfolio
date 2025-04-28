@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a4473d9d-abf8-4248-b50e-000ae5f7e955" name="simply" url="http://linux330.unoeuro.com">
+        <fileTransfer rootFolder="/public_html" host="linux330.unoeuro.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
