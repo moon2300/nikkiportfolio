@@ -338,6 +338,9 @@ video {
     opacity: 0;
 }
 
+.overlay span{
+    width: 75%;
+}
 
 /* ------------------------------------About Section------------------------------ */
 .about-section {
